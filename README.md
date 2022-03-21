@@ -8,4 +8,6 @@ Functionality for this app includes: several sample texts (one of which will be 
 random); a spell checker that determines whether or not you copied the sample text successfully, 
 and the ability to restart the test once finished.
 
+This app uses [rdbende's Forest TTK Theme](https://github.com/rdbende/Forest-ttk-theme).
+
 Enjoy!
